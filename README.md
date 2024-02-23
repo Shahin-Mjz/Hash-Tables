@@ -1,4 +1,4 @@
-# Hash functions and multiplanes
+# Hash Tables
 
 
 In this `Notebook`, we will practice the most important concepts related to hash functions.
